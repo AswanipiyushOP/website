@@ -1,0 +1,12 @@
+.left-section
+{
+    width: 30%;
+    background-color: black;
+    float: left;
+
+}
+.right-section
+{
+    width: 70%;
+    float: right;
+}
